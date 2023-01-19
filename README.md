@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/starcraftsplash.jpg" alt="Splash" width="auto" height="auto">
+    <img src="images/starcraftsplash.jpg" alt="Splash">
     <img src="images/starcraftsplash2.jpg" alt="Splash" width="375" height="273">
 </div>
 <div align="center">
