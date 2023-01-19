@@ -2,7 +2,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-    <img src="images/starcraftsplash.jpg" alt="Splash">
+    <img src="images/starcraftsplash.jpg" alt="Splash" height="500" width="500">
     <img src="images/starcraftsplash2.jpg" alt="Splash">
 </div>
 <div align="center">
@@ -32,7 +32,7 @@
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
-Playing with useState hook.
+Exploring useState hook.
 
 ### Built With
 
