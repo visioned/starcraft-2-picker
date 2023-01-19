@@ -1,0 +1,33 @@
+.starcraft-races {
+  background-color: #5e5e5e;
+  color: #ffffff;
+  font-family: 'Roboto', sans-serif;
+}
+
+.selected-race {
+  font-size: 36px;
+  font-weight: bold;
+}
+
+.randomize-button {
+  background-color: #00cc33;
+  border: none;
+  color: #ffffff;
+  cursor: pointer;
+  font-size: 16px;
+  padding: 10px 20px;
+  border-radius: 4px;
+}
+
+.randomize-button:hover {
+  background-color: #009900;
+}
+
+.race-count {
+  font-size: 18px;
+  margin-top: 10px;
+}
+
+.logo {
+  background-color: transparent;
+}
